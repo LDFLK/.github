@@ -12,7 +12,7 @@ We view data not as isolated numbers or reports, but as a foundation for account
 
 Our work makes verified, high-quality public data available through open platforms, tools, and APIs - supporting citizens, researchers, journalists, technologists, and other public‑minded organizations. Through this, LDF aims to strengthen democratic participation and contribute to a more transparent and accountable society.
 
-While the software we build is intended to be of use for any country, the data we collect is focused on our home country Sri Lanka.
+While our software is built for use in any country, the data we collect is focused on our home, Sri Lanka.
 ---
 
 ## What We Build
