@@ -32,13 +32,6 @@ Help build the future of public goods! We are a growing community dedicated to m
 
 ---
 
-## Resources
-
-* [**Official Website**](https://opendata.lk/)
-* [**Data Platform**](https://opendata.lk/data-platform/)
-
----
-
 <p align="center">
   <i>Open Data © 2026 Lanka Data Foundation. All rights reserved.</i>
 </p>
