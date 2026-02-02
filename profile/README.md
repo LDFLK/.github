@@ -8,36 +8,6 @@
 
 Lanka Data Foundation (LDF) is a not-for-profit organization working to make public data accessible, connected, and useful.
 
-We view data not as isolated numbers or reports, but as a foundation for accountability, transparency, and informed citizenship. Much public information exists in fragmented silos; LDF focuses on sourcing, curating, and linking these datasets to create meaningful insights that help people understand institutions, decisions, and systems over time.
-
-Our work makes verified, high-quality public data available through open platforms, tools, and APIs - supporting citizens, researchers, journalists, technologists, and other public‑minded organizations. Through this, LDF aims to strengthen democratic participation and contribute to a more transparent and accountable society.
-
-While our software is built for use in any country, the data we collect is focused on our home, Sri Lanka.
-
----
-
-## What We Build
-
-Our work is structured around two core areas that support how public data is collected, connected, and shared:
-
-### Data Platform
-
-The data platform focuses on the infrastructure and APIs needed to model, connect, and reuse public data at scale.
-
-- Systems to collect, store, and retrieve large-scale public data
-- APIs and services for programmatic access to datasets
-- Backend frameworks integrating different types of databases
-- Tools that enable data reuse by applications, researchers, and organizations
-
-### Sri Lanka Information Hub
-
-The information hub focuses on access, exploration, and understanding of public data from Sri Lanka.
-
-- Curated and structured public datasets published in open formats (CSV, JSON, etc.)
-- Archives of government documents, gazettes, and public records
-- Search, browse, and discovery interfaces for public information
-- Applications and tools to visualize, analyze, and explore data interactively
-
 ---
 
 ## Live Projects
